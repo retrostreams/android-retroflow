@@ -11,6 +11,8 @@ and [android-retrostreams](https://github.com/retrostreams/android-retrostreams)
 
 Other than having a different package name this code has no further changes compared with [streamsupport-flow](https://sourceforge.net/p/streamsupport/code/ci/default/tree/src/flow/)
 
+Online Javadoc is available at [docs](https://retrostreams.github.io/android-retroflow/apidocs/index.html)
+
 Please give feedback [here](https://github.com/retrostreams/android-retroflow/issues) if you experience any problems.
 
 
