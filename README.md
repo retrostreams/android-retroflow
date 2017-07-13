@@ -9,7 +9,7 @@ it has an indirect dependency on [android-retrostreams](https://github.com/retro
 [streamsupport-flow](https://sourceforge.net/p/streamsupport/code/ci/default/tree/src/flow/) component can't be used with android-retrostreams
 and [android-retrostreams](https://github.com/retrostreams/android-retrostreams) itself can *only* be used with desugar or Java 8 / 9).
 
-Other than having a different package name this code has no changes compared with [streamsupport-flow](https://sourceforge.net/p/streamsupport/code/ci/default/tree/src/flow/)
+Other than having a different package name this code has no further changes compared with [streamsupport-flow](https://sourceforge.net/p/streamsupport/code/ci/default/tree/src/flow/)
 
 Please give feedback [here](https://github.com/retrostreams/android-retroflow/issues) if you experience any problems.
 
