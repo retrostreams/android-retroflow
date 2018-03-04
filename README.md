@@ -6,10 +6,10 @@ android-retroflow is a backport of the new Java 9 (JEP 266) reactive-streams Flo
 
 There is nothing specific to Android or the desugar toolchain in this code (it could even be compiled to Java 6 bytecode) but
 it has an indirect dependency on [android-retrostreams](https://github.com/retrostreams/android-retrostreams) (via [android-retrofuture](https://github.com/retrostreams/android-retrofuture)) which is why this exists as a separate component (the corresponding
-[streamsupport-flow](https://sourceforge.net/p/streamsupport/code/ci/default/tree/src/flow/) component can't be used with android-retrostreams
+[streamsupport-flow](https://github.com/stefan-zobel/streamsupport/tree/master/src/flow) component can't be used with android-retrostreams
 and [android-retrostreams](https://github.com/retrostreams/android-retrostreams) itself can *only* be used with desugar or Java 8 / 9).
 
-Other than having a different package name this code has no further changes compared with [streamsupport-flow](https://sourceforge.net/p/streamsupport/code/ci/default/tree/src/flow/)
+Other than having a different package name this code has no further changes compared with [streamsupport-flow](https://github.com/stefan-zobel/streamsupport/tree/master/src/flow)
 
 Online Javadoc is available at [docs](https://retrostreams.github.io/android-retroflow/apidocs/index.html)
 
