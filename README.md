@@ -1,4 +1,5 @@
 [![Maven Central](https://img.shields.io/maven-central/v/net.sourceforge.streamsupport/android-retroflow.svg)](http://mvnrepository.com/artifact/net.sourceforge.streamsupport/android-retroflow)
+[![javadoc.io](https://javadocio-badges.herokuapp.com/net.sourceforge.streamsupport/android-retroflow/badge.svg)](http://www.javadoc.io/doc/net.sourceforge.streamsupport/android-retroflow/)
 
 # android-retroflow
 
