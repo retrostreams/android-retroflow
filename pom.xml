@@ -24,8 +24,8 @@
 	</developers>
 	<scm>
 		<url>https://github.com/retrostreams/android-retroflow</url>
-		<connection>scm:git:git@github.com:retrostreams/android-retroflow.git</connection>
-		<developerConnection>scm:git:git@github.com:retrostreams/android-retroflow.git</developerConnection>
+		<connection>scm:git:https://github.com/retrostreams/android-retroflow.git</connection>
+		<developerConnection>scm:git:https://github.com/retrostreams/android-retroflow.git</developerConnection>
 	</scm>
 
 	<dependencies>
