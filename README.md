@@ -6,7 +6,7 @@
 
 ![](art/streamsupport-sf.png)
 
-android-retroflow is a backport of the new Java 9 (JEP 266) reactive-streams Flow and SubmissionPublisher API for Android developers wanting to use the Android Studio 3.0 desugar toolchain.
+android-retroflow is a backport of the new Java 9 (JEP 266) reactive-streams Flow and SubmissionPublisher API for Android developers wanting to use the Android Studio 3.x D8 / desugar toolchain.
 
 There is nothing specific to Android or the desugar toolchain in this code (it could even be compiled to Java 6 bytecode) but
 it has an indirect dependency on [android-retrostreams](https://github.com/retrostreams/android-retrostreams) (via [android-retrofuture](https://github.com/retrostreams/android-retrofuture)) which is why this exists as a separate component (the corresponding
