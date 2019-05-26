@@ -24,7 +24,7 @@ Please give feedback [here](https://github.com/retrostreams/android-retroflow/is
 
 ```gradle
 dependencies {
-    compile 'net.sourceforge.streamsupport:android-retroflow:1.7.0'
+    compile 'net.sourceforge.streamsupport:android-retroflow:1.7.1'
 }
 ```
 
