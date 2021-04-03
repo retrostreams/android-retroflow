@@ -1,6 +1,5 @@
 [![Maven Central](https://img.shields.io/maven-central/v/net.sourceforge.streamsupport/android-retroflow.svg)](http://mvnrepository.com/artifact/net.sourceforge.streamsupport/android-retroflow)
 [![javadoc.io](https://javadoc.io/badge2/net.sourceforge.streamsupport/android-retroflow/javadoc.svg)](https://javadoc.io/doc/net.sourceforge.streamsupport/android-retroflow)
-[![Download](https://api.bintray.com/packages/stefan-zobel/android-retroflow/android-retroflow/images/download.svg) ](https://bintray.com/stefan-zobel/android-retroflow/android-retroflow/_latestVersion)
 
 # android-retroflow
 
